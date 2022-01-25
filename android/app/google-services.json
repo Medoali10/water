@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691163001936",
+    "firebase_url": "https://project-6-50b8f-default-rtdb.firebaseio.com",
+    "project_id": "project-6-50b8f",
+    "storage_bucket": "project-6-50b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691163001936:android:5e4d134ee1483c4cf1cd55",
+        "android_client_info": {
+          "package_name": "com.example.hot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691163001936-van4pa9ea6beiifp437s174gfscd5gmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEcdIIdja4XiFNaPb74Vvu5WLX6fVXU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691163001936-van4pa9ea6beiifp437s174gfscd5gmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
